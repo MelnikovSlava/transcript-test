@@ -1,4 +1,4 @@
-> ##### React, MobX, Less, TypeScript, Webpack
+> ##### React, MobX, Less, Webpack
 
 ## Запуск
 
