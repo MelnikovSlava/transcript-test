@@ -37,4 +37,6 @@ npm run build
 - Верстать по макету, Pixel Perfect необязательно, шрифт Arial; иконки, цвета и размеры элементов нужно соблюдать
 - Должна быть возможность собрать готовую страницу с помощью `npm run build`
 
-> #### Demo https://melnikovslava.github.io/transcript-test/index.html
+## Demo
+
+> ##### Go to https://melnikovslava.github.io/transcript-test/index.html
